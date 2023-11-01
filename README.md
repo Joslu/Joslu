@@ -23,12 +23,14 @@ My passion and love for technology has driven me into this field, and to see wha
 
 Besides this, I do photography and enjoy nature. 
 
-📷🌿⛰️🌌🚀
+📷🌿⛰️🌌🚀 ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico")
+
 
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Static Badge](https://img.shields.io/badge/PLC-%20IEC61131-3?logo=windowsterminal&color=36465D)
 ![Static Badge](https://img.shields.io/badge/sapere%20aude-36175E)
 
+ 
 ---
  __Get in touch__
 
